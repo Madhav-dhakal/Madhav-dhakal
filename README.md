@@ -1,3 +1,4 @@
+![logo](https://github.com/Madhav-dhakal/Madhav-dhakal/blob/main/hello%20world.gif)
 <h1 align="center">Hi 👋, I'm Madhav Dhakal</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 
