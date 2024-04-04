@@ -1,4 +1,4 @@
-![logo](https://github.com/Madhav-dhakal/Madhav-dhakal/blob/main/coding%20world.gif)
+![logo](https://github.com/Madhav-dhakal/Madhav-dhakal/blob/main/code%20world.jpg)
 <h1 align="center">Hi 👋, I'm Madhav Dhakal</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 
