@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Madhav-dhakal](https://github.com/Madhav-dhakal)
 
+- 🌱 I’m currently learning Web Development
+
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **satishdhakal4@gmail.com**
